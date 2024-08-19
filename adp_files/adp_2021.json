@@ -1,0 +1,2082 @@
+[
+  {
+    "Name": "Christian McCaffrey",
+    "Team": "CAR",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 27,
+    "AverageDraftPositionPPR": 1.3,
+    "Rank": 1,
+    "PositionRank": "RB1"
+  },
+  {
+    "Name": "Dalvin Cook",
+    "Team": "MIN",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 28,
+    "AverageDraftPositionPPR": 2.5,
+    "Rank": 2,
+    "PositionRank": "RB2"
+  },
+  {
+    "Name": "Alvin Kamara",
+    "Team": "NO",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 28,
+    "AverageDraftPositionPPR": 3.1,
+    "Rank": 3,
+    "PositionRank": "RB3"
+  },
+  {
+    "Name": "Davante Adams",
+    "Team": "GB",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 30,
+    "AverageDraftPositionPPR": 4.5,
+    "Rank": 4,
+    "PositionRank": "WR1"
+  },
+  {
+    "Name": "Ezekiel Elliott",
+    "Team": "DAL",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 28,
+    "AverageDraftPositionPPR": 5.3,
+    "Rank": 5,
+    "PositionRank": "RB4"
+  },
+  {
+    "Name": "Derrick Henry",
+    "Team": "TEN",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 29,
+    "AverageDraftPositionPPR": 6.4,
+    "Rank": 6,
+    "PositionRank": "RB5"
+  },
+  {
+    "Name": "Austin Ekeler",
+    "Team": "LAC",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 28,
+    "AverageDraftPositionPPR": 6.5,
+    "Rank": 7,
+    "PositionRank": "RB6"
+  },
+  {
+    "Name": "Travis Kelce",
+    "Team": "KC",
+    "Position": "TE",
+    "ByeWeek": 12,
+    "Age": 33,
+    "AverageDraftPositionPPR": 6.9,
+    "Rank": 8,
+    "PositionRank": "TE1"
+  },
+  {
+    "Name": "Aaron Jones",
+    "Team": "GB",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 28,
+    "AverageDraftPositionPPR": 9,
+    "Rank": 9,
+    "PositionRank": "RB7"
+  },
+  {
+    "Name": "Tyreek Hill",
+    "Team": "KC",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 29,
+    "AverageDraftPositionPPR": 9.3,
+    "Rank": 10,
+    "PositionRank": "WR2"
+  },
+  {
+    "Name": "Nick Chubb",
+    "Team": "CLE",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 27,
+    "AverageDraftPositionPPR": 10.4,
+    "Rank": 11,
+    "PositionRank": "RB8"
+  },
+  {
+    "Name": "Najee Harris",
+    "Team": "PIT",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 11.6,
+    "Rank": 12,
+    "PositionRank": "RB9"
+  },
+  {
+    "Name": "Saquon Barkley",
+    "Team": "NYG",
+    "Position": "RB",
+    "ByeWeek": 10,
+    "Age": 26,
+    "AverageDraftPositionPPR": 12.4,
+    "Rank": 13,
+    "PositionRank": "RB10"
+  },
+  {
+    "Name": "Stefon Diggs",
+    "Team": "BUF",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 29,
+    "AverageDraftPositionPPR": 13,
+    "Rank": 14,
+    "PositionRank": "WR3"
+  },
+  {
+    "Name": "Jonathan Taylor",
+    "Team": "IND",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 24,
+    "AverageDraftPositionPPR": 13.2,
+    "Rank": 15,
+    "PositionRank": "RB11"
+  },
+  {
+    "Name": "Antonio Gibson",
+    "Team": "WAS",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 25,
+    "AverageDraftPositionPPR": 14.8,
+    "Rank": 16,
+    "PositionRank": "RB12"
+  },
+  {
+    "Name": "DeAndre Hopkins",
+    "Team": "ARI",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 31,
+    "AverageDraftPositionPPR": 16.7,
+    "Rank": 17,
+    "PositionRank": "WR4"
+  },
+  {
+    "Name": "Calvin Ridley",
+    "Team": "ATL",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 28,
+    "AverageDraftPositionPPR": 17.9,
+    "Rank": 18,
+    "PositionRank": "WR5"
+  },
+  {
+    "Name": "DK Metcalf",
+    "Team": "SEA",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 25,
+    "AverageDraftPositionPPR": 18.5,
+    "Rank": 19,
+    "PositionRank": "WR6"
+  },
+  {
+    "Name": "Joe Mixon",
+    "Team": "CIN",
+    "Position": "RB",
+    "ByeWeek": 10,
+    "Age": 27,
+    "AverageDraftPositionPPR": 19.4,
+    "Rank": 20,
+    "PositionRank": "RB13"
+  },
+  {
+    "Name": "Clyde Edwards-Helaire",
+    "Team": "KC",
+    "Position": "RB",
+    "ByeWeek": 12,
+    "Age": 24,
+    "AverageDraftPositionPPR": 19.7,
+    "Rank": 21,
+    "PositionRank": "RB14"
+  },
+  {
+    "Name": "Patrick Mahomes",
+    "Team": "KC",
+    "Position": "QB",
+    "ByeWeek": 12,
+    "Age": 27,
+    "AverageDraftPositionPPR": 19.8,
+    "Rank": 22,
+    "PositionRank": "QB1"
+  },
+  {
+    "Name": "Darren Waller",
+    "Team": "LV",
+    "Position": "TE",
+    "ByeWeek": 8,
+    "Age": 30,
+    "AverageDraftPositionPPR": 21.6,
+    "Rank": 23,
+    "PositionRank": "TE2"
+  },
+  {
+    "Name": "Justin Jefferson",
+    "Team": "MIN",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 24,
+    "AverageDraftPositionPPR": 22.6,
+    "Rank": 24,
+    "PositionRank": "WR7"
+  },
+  {
+    "Name": "A.J. Brown",
+    "Team": "TEN",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 26,
+    "AverageDraftPositionPPR": 24.1,
+    "Rank": 25,
+    "PositionRank": "WR8"
+  },
+  {
+    "Name": "David Montgomery",
+    "Team": "CHI",
+    "Position": "RB",
+    "ByeWeek": 10,
+    "Age": 26,
+    "AverageDraftPositionPPR": 25.4,
+    "Rank": 26,
+    "PositionRank": "RB15"
+  },
+  {
+    "Name": "Keenan Allen",
+    "Team": "LAC",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 31,
+    "AverageDraftPositionPPR": 25.9,
+    "Rank": 27,
+    "PositionRank": "WR9"
+  },
+  {
+    "Name": "James Robinson",
+    "Team": "JAX",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 27.1,
+    "Rank": 28,
+    "PositionRank": "RB16"
+  },
+  {
+    "Name": "Chris Carson",
+    "Team": "SEA",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 28,
+    "AverageDraftPositionPPR": 27.4,
+    "Rank": 29,
+    "PositionRank": "RB17"
+  },
+  {
+    "Name": "Terry McLaurin",
+    "Team": "WAS",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 27,
+    "AverageDraftPositionPPR": 28.6,
+    "Rank": 30,
+    "PositionRank": "WR10"
+  },
+  {
+    "Name": "George Kittle",
+    "Team": "SF",
+    "Position": "TE",
+    "ByeWeek": 6,
+    "Age": 29,
+    "AverageDraftPositionPPR": 30.4,
+    "Rank": 31,
+    "PositionRank": "TE3"
+  },
+  {
+    "Name": "CeeDee Lamb",
+    "Team": "DAL",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 24,
+    "AverageDraftPositionPPR": 30.9,
+    "Rank": 32,
+    "PositionRank": "WR11"
+  },
+  {
+    "Name": "Josh Allen",
+    "Team": "BUF",
+    "Position": "QB",
+    "ByeWeek": 7,
+    "Age": 27,
+    "AverageDraftPositionPPR": 32.5,
+    "Rank": 33,
+    "PositionRank": "QB2"
+  },
+  {
+    "Name": "Allen Robinson II",
+    "Team": "CHI",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 29,
+    "AverageDraftPositionPPR": 33,
+    "Rank": 34,
+    "PositionRank": "WR12"
+  },
+  {
+    "Name": "Josh Jacobs",
+    "Team": "LV",
+    "Position": "RB",
+    "ByeWeek": 8,
+    "Age": 25,
+    "AverageDraftPositionPPR": 33.1,
+    "Rank": 35,
+    "PositionRank": "RB18"
+  },
+  {
+    "Name": "D'Andre Swift",
+    "Team": "DET",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 24,
+    "AverageDraftPositionPPR": 34.8,
+    "Rank": 36,
+    "PositionRank": "RB19"
+  },
+  {
+    "Name": "Robert Woods",
+    "Team": "LAR",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 31,
+    "AverageDraftPositionPPR": 35.6,
+    "Rank": 37,
+    "PositionRank": "WR13"
+  },
+  {
+    "Name": "Miles Sanders",
+    "Team": "PHI",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 37.6,
+    "Rank": 38,
+    "PositionRank": "RB20"
+  },
+  {
+    "Name": "Mike Evans",
+    "Team": "TB",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 29,
+    "AverageDraftPositionPPR": 38.2,
+    "Rank": 39,
+    "PositionRank": "WR14"
+  },
+  {
+    "Name": "Myles Gaskin",
+    "Team": "MIA",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 39.2,
+    "Rank": 40,
+    "PositionRank": "RB21"
+  },
+  {
+    "Name": "Amari Cooper",
+    "Team": "DAL",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 29,
+    "AverageDraftPositionPPR": 39.4,
+    "Rank": 41,
+    "PositionRank": "WR15"
+  },
+  {
+    "Name": "Kyle Pitts",
+    "Team": "ATL",
+    "Position": "TE",
+    "ByeWeek": 6,
+    "Age": 22,
+    "AverageDraftPositionPPR": 40.1,
+    "Rank": 42,
+    "PositionRank": "TE4"
+  },
+  {
+    "Name": "Kyler Murray",
+    "Team": "ARI",
+    "Position": "QB",
+    "ByeWeek": 12,
+    "Age": 26,
+    "AverageDraftPositionPPR": 41.7,
+    "Rank": 43,
+    "PositionRank": "QB3"
+  },
+  {
+    "Name": "Mike Davis",
+    "Team": "ATL",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 30,
+    "AverageDraftPositionPPR": 42.2,
+    "Rank": 44,
+    "PositionRank": "RB22"
+  },
+  {
+    "Name": "Gus Edwards",
+    "Team": "BAL",
+    "Position": "RB",
+    "ByeWeek": 8,
+    "Age": 28,
+    "AverageDraftPositionPPR": 43.2,
+    "Rank": 45,
+    "PositionRank": "RB23"
+  },
+  {
+    "Name": "Cooper Kupp",
+    "Team": "LAR",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 30,
+    "AverageDraftPositionPPR": 44,
+    "Rank": 46,
+    "PositionRank": "WR16"
+  },
+  {
+    "Name": "Diontae Johnson",
+    "Team": "PIT",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 27,
+    "AverageDraftPositionPPR": 44.8,
+    "Rank": 47,
+    "PositionRank": "WR17"
+  },
+  {
+    "Name": "Chris Godwin",
+    "Team": "TB",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 27,
+    "AverageDraftPositionPPR": 46.8,
+    "Rank": 48,
+    "PositionRank": "WR18"
+  },
+  {
+    "Name": "Darrell Henderson Jr.",
+    "Team": "LAR",
+    "Position": "RB",
+    "ByeWeek": 11,
+    "Age": 25,
+    "AverageDraftPositionPPR": 47.8,
+    "Rank": 49,
+    "PositionRank": "RB24"
+  },
+  {
+    "Name": "Tyler Lockett",
+    "Team": "SEA",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 30,
+    "AverageDraftPositionPPR": 48.7,
+    "Rank": 50,
+    "PositionRank": "WR19"
+  },
+  {
+    "Name": "Lamar Jackson",
+    "Team": "BAL",
+    "Position": "QB",
+    "ByeWeek": 8,
+    "Age": 26,
+    "AverageDraftPositionPPR": 50.1,
+    "Rank": 51,
+    "PositionRank": "QB4"
+  },
+  {
+    "Name": "Julio Jones",
+    "Team": "TEN",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 34,
+    "AverageDraftPositionPPR": 50.3,
+    "Rank": 52,
+    "PositionRank": "WR20"
+  },
+  {
+    "Name": "Mark Andrews",
+    "Team": "BAL",
+    "Position": "TE",
+    "ByeWeek": 8,
+    "Age": 27,
+    "AverageDraftPositionPPR": 50.6,
+    "Rank": 53,
+    "PositionRank": "TE5"
+  },
+  {
+    "Name": "Javonte Williams",
+    "Team": "DEN",
+    "Position": "RB",
+    "ByeWeek": 11,
+    "Age": 23,
+    "AverageDraftPositionPPR": 51.7,
+    "Rank": 54,
+    "PositionRank": "RB25"
+  },
+  {
+    "Name": "Damien Harris",
+    "Team": "NE",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 52.4,
+    "Rank": 55,
+    "PositionRank": "RB26"
+  },
+  {
+    "Name": "Adam Thielen",
+    "Team": "MIN",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 32,
+    "AverageDraftPositionPPR": 53.9,
+    "Rank": 56,
+    "PositionRank": "WR21"
+  },
+  {
+    "Name": "Aaron Rodgers",
+    "Team": "GB",
+    "Position": "QB",
+    "ByeWeek": 13,
+    "Age": 39,
+    "AverageDraftPositionPPR": 54.1,
+    "Rank": 57,
+    "PositionRank": "QB5"
+  },
+  {
+    "Name": "Brandon Aiyuk",
+    "Team": "SF",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 25,
+    "AverageDraftPositionPPR": 54.5,
+    "Rank": 58,
+    "PositionRank": "WR22"
+  },
+  {
+    "Name": "T.J. Hockenson",
+    "Team": "DET",
+    "Position": "TE",
+    "ByeWeek": 9,
+    "Age": 26,
+    "AverageDraftPositionPPR": 55.4,
+    "Rank": 59,
+    "PositionRank": "TE6"
+  },
+  {
+    "Name": "Raheem Mostert",
+    "Team": "SF",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 31,
+    "AverageDraftPositionPPR": 57.5,
+    "Rank": 60,
+    "PositionRank": "RB27"
+  },
+  {
+    "Name": "DJ Moore",
+    "Team": "CAR",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 26,
+    "AverageDraftPositionPPR": 59.1,
+    "Rank": 61,
+    "PositionRank": "WR23"
+  },
+  {
+    "Name": "Kareem Hunt",
+    "Team": "CLE",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 28,
+    "AverageDraftPositionPPR": 59.7,
+    "Rank": 62,
+    "PositionRank": "RB28"
+  },
+  {
+    "Name": "Tee Higgins",
+    "Team": "CIN",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 24,
+    "AverageDraftPositionPPR": 60.1,
+    "Rank": 63,
+    "PositionRank": "WR24"
+  },
+  {
+    "Name": "Chase Edmonds",
+    "Team": "ARI",
+    "Position": "RB",
+    "ByeWeek": 12,
+    "Age": 27,
+    "AverageDraftPositionPPR": 62.3,
+    "Rank": 64,
+    "PositionRank": "RB29"
+  },
+  {
+    "Name": "Jerry Jeudy",
+    "Team": "DEN",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 24,
+    "AverageDraftPositionPPR": 63.1,
+    "Rank": 65,
+    "PositionRank": "WR25"
+  },
+  {
+    "Name": "Dak Prescott",
+    "Team": "DAL",
+    "Position": "QB",
+    "ByeWeek": 7,
+    "Age": 30,
+    "AverageDraftPositionPPR": 64.3,
+    "Rank": 66,
+    "PositionRank": "QB6"
+  },
+  {
+    "Name": "Chase Claypool",
+    "Team": "PIT",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 65.5,
+    "Rank": 67,
+    "PositionRank": "WR26"
+  },
+  {
+    "Name": "Logan Thomas",
+    "Team": "WAS",
+    "Position": "TE",
+    "ByeWeek": 9,
+    "Age": 32,
+    "AverageDraftPositionPPR": 65.7,
+    "Rank": 68,
+    "PositionRank": "TE7"
+  },
+  {
+    "Name": "Russell Wilson",
+    "Team": "SEA",
+    "Position": "QB",
+    "ByeWeek": 9,
+    "Age": 34,
+    "AverageDraftPositionPPR": 66.3,
+    "Rank": 69,
+    "PositionRank": "QB7"
+  },
+  {
+    "Name": "Odell Beckham Jr.",
+    "Team": "CLE",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 30,
+    "AverageDraftPositionPPR": 68.7,
+    "Rank": 70,
+    "PositionRank": "WR27"
+  },
+  {
+    "Name": "Trey Sermon",
+    "Team": "SF",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 24,
+    "AverageDraftPositionPPR": 68.8,
+    "Rank": 71,
+    "PositionRank": "RB30"
+  },
+  {
+    "Name": "Justin Herbert",
+    "Team": "LAC",
+    "Position": "QB",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 70.1,
+    "Rank": 72,
+    "PositionRank": "QB8"
+  },
+  {
+    "Name": "Melvin Gordon III",
+    "Team": "DEN",
+    "Position": "RB",
+    "ByeWeek": 11,
+    "Age": 30,
+    "AverageDraftPositionPPR": 71.6,
+    "Rank": 73,
+    "PositionRank": "RB31"
+  },
+  {
+    "Name": "Antonio Brown",
+    "Team": "TB",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 35,
+    "AverageDraftPositionPPR": 72.5,
+    "Rank": 74,
+    "PositionRank": "WR28"
+  },
+  {
+    "Name": "Robbie Chosen",
+    "Team": "CAR",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 30,
+    "AverageDraftPositionPPR": 74.9,
+    "Rank": 75,
+    "PositionRank": "WR29"
+  },
+  {
+    "Name": "DeVonta Smith",
+    "Team": "PHI",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 24,
+    "AverageDraftPositionPPR": 74.9,
+    "Rank": 75,
+    "PositionRank": "WR30"
+  },
+  {
+    "Name": "Tom Brady",
+    "Team": "TB",
+    "Position": "QB",
+    "ByeWeek": 9,
+    "Age": 46,
+    "AverageDraftPositionPPR": 75.2,
+    "Rank": 77,
+    "PositionRank": "QB9"
+  },
+  {
+    "Name": "Michael Thomas",
+    "Team": "NO",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 30,
+    "AverageDraftPositionPPR": 75.4,
+    "Rank": 78,
+    "PositionRank": "WR31"
+  },
+  {
+    "Name": "Laviska Shenault Jr.",
+    "Team": "JAX",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 24,
+    "AverageDraftPositionPPR": 76.9,
+    "Rank": 79,
+    "PositionRank": "WR32"
+  },
+  {
+    "Name": "Noah Fant",
+    "Team": "DEN",
+    "Position": "TE",
+    "ByeWeek": 11,
+    "Age": 25,
+    "AverageDraftPositionPPR": 77.9,
+    "Rank": 80,
+    "PositionRank": "TE8"
+  },
+  {
+    "Name": "Michael Carter",
+    "Team": "NYJ",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 24,
+    "AverageDraftPositionPPR": 78.1,
+    "Rank": 81,
+    "PositionRank": "RB32"
+  },
+  {
+    "Name": "Marquez Callaway",
+    "Team": "NO",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 25,
+    "AverageDraftPositionPPR": 79.3,
+    "Rank": 82,
+    "PositionRank": "WR33"
+  },
+  {
+    "Name": "Ronald Jones",
+    "Team": "TB",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 26,
+    "AverageDraftPositionPPR": 80,
+    "Rank": 83,
+    "PositionRank": "RB33"
+  },
+  {
+    "Name": "AJ Dillon",
+    "Team": "GB",
+    "Position": "RB",
+    "ByeWeek": 13,
+    "Age": 25,
+    "AverageDraftPositionPPR": 81.5,
+    "Rank": 84,
+    "PositionRank": "RB34"
+  },
+  {
+    "Name": "Robert Tonyan",
+    "Team": "GB",
+    "Position": "TE",
+    "ByeWeek": 13,
+    "Age": 29,
+    "AverageDraftPositionPPR": 83.8,
+    "Rank": 85,
+    "PositionRank": "TE9"
+  },
+  {
+    "Name": "Sony Michel",
+    "Team": "LAR",
+    "Position": "RB",
+    "ByeWeek": 11,
+    "Age": 28,
+    "AverageDraftPositionPPR": 83.9,
+    "Rank": 86,
+    "PositionRank": "RB35"
+  },
+  {
+    "Name": "JuJu Smith-Schuster",
+    "Team": "PIT",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 26,
+    "AverageDraftPositionPPR": 84.7,
+    "Rank": 87,
+    "PositionRank": "WR34"
+  },
+  {
+    "Name": "Courtland Sutton",
+    "Team": "DEN",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 27,
+    "AverageDraftPositionPPR": 85.5,
+    "Rank": 88,
+    "PositionRank": "WR35"
+  },
+  {
+    "Name": "Tyler Higbee",
+    "Team": "LAR",
+    "Position": "TE",
+    "ByeWeek": 11,
+    "Age": 30,
+    "AverageDraftPositionPPR": 87.1,
+    "Rank": 89,
+    "PositionRank": "TE10"
+  },
+  {
+    "Name": "Matthew Stafford",
+    "Team": "LAR",
+    "Position": "QB",
+    "ByeWeek": 11,
+    "Age": 35,
+    "AverageDraftPositionPPR": 87.2,
+    "Rank": 90,
+    "PositionRank": "QB10"
+  },
+  {
+    "Name": "Ja'Marr Chase",
+    "Team": "CIN",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 23,
+    "AverageDraftPositionPPR": 87.4,
+    "Rank": 91,
+    "PositionRank": "WR36"
+  },
+  {
+    "Name": "Zack Moss",
+    "Team": "BUF",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 88.1,
+    "Rank": 92,
+    "PositionRank": "RB36"
+  },
+  {
+    "Name": "Jamaal Williams",
+    "Team": "DET",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 28,
+    "AverageDraftPositionPPR": 88.1,
+    "Rank": 92,
+    "PositionRank": "RB37"
+  },
+  {
+    "Name": "Corey Davis",
+    "Team": "NYJ",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 28,
+    "AverageDraftPositionPPR": 88.3,
+    "Rank": 94,
+    "PositionRank": "WR37"
+  },
+  {
+    "Name": "Devin Singletary",
+    "Team": "BUF",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 25,
+    "AverageDraftPositionPPR": 91.6,
+    "Rank": 95,
+    "PositionRank": "RB38"
+  },
+  {
+    "Name": "Deebo Samuel",
+    "Team": "SF",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 27,
+    "AverageDraftPositionPPR": 92.7,
+    "Rank": 96,
+    "PositionRank": "WR38"
+  },
+  {
+    "Name": "Ryan Tannehill",
+    "Team": "TEN",
+    "Position": "QB",
+    "ByeWeek": 13,
+    "Age": 35,
+    "AverageDraftPositionPPR": 94.7,
+    "Rank": 97,
+    "PositionRank": "QB11"
+  },
+  {
+    "Name": "Jalen Hurts",
+    "Team": "PHI",
+    "Position": "QB",
+    "ByeWeek": 14,
+    "Age": 25,
+    "AverageDraftPositionPPR": 94.8,
+    "Rank": 98,
+    "PositionRank": "QB12"
+  },
+  {
+    "Name": "Tyler Boyd",
+    "Team": "CIN",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 28,
+    "AverageDraftPositionPPR": 96.3,
+    "Rank": 99,
+    "PositionRank": "WR39"
+  },
+  {
+    "Name": "Michael Pittman Jr.",
+    "Team": "IND",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 25,
+    "AverageDraftPositionPPR": 97.3,
+    "Rank": 100,
+    "PositionRank": "WR40"
+  },
+  {
+    "Name": "Kenny Golladay",
+    "Team": "NYG",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 29,
+    "AverageDraftPositionPPR": 97.6,
+    "Rank": 101,
+    "PositionRank": "WR41"
+  },
+  {
+    "Name": "James Conner",
+    "Team": "ARI",
+    "Position": "RB",
+    "ByeWeek": 12,
+    "Age": 28,
+    "AverageDraftPositionPPR": 97.9,
+    "Rank": 102,
+    "PositionRank": "RB39"
+  },
+  {
+    "Name": "Leonard Fournette",
+    "Team": "TB",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 28,
+    "AverageDraftPositionPPR": 98.9,
+    "Rank": 103,
+    "PositionRank": "RB40"
+  },
+  {
+    "Name": "Jaylen Waddle",
+    "Team": "MIA",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 24,
+    "AverageDraftPositionPPR": 100.7,
+    "Rank": 104,
+    "PositionRank": "WR42"
+  },
+  {
+    "Name": "Kenyan Drake",
+    "Team": "LV",
+    "Position": "RB",
+    "ByeWeek": 8,
+    "Age": 29,
+    "AverageDraftPositionPPR": 101.6,
+    "Rank": 105,
+    "PositionRank": "RB41"
+  },
+  {
+    "Name": "Dallas Goedert",
+    "Team": "PHI",
+    "Position": "TE",
+    "ByeWeek": 14,
+    "Age": 28,
+    "AverageDraftPositionPPR": 102.2,
+    "Rank": 106,
+    "PositionRank": "TE11"
+  },
+  {
+    "Name": "Brandin Cooks",
+    "Team": "HOU",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 29,
+    "AverageDraftPositionPPR": 103,
+    "Rank": 107,
+    "PositionRank": "WR43"
+  },
+  {
+    "Name": "Phillip Lindsay",
+    "Team": "HOU",
+    "Position": "RB",
+    "ByeWeek": 10,
+    "Age": 29,
+    "AverageDraftPositionPPR": 103.4,
+    "Rank": 108,
+    "PositionRank": "RB42"
+  },
+  {
+    "Name": "Jakobi Meyers",
+    "Team": "NE",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 103.6,
+    "Rank": 109,
+    "PositionRank": "WR44"
+  },
+  {
+    "Name": "Pittsburgh Steelers",
+    "Team": "PIT",
+    "Position": "DST",
+    "ByeWeek": 7,
+    "Age": null,
+    "AverageDraftPositionPPR": 104.5,
+    "Rank": 110,
+    "PositionRank": "DST1"
+  },
+  {
+    "Name": "Mike Gesicki",
+    "Team": "MIA",
+    "Position": "TE",
+    "ByeWeek": 14,
+    "Age": 27,
+    "AverageDraftPositionPPR": 106.1,
+    "Rank": 111,
+    "PositionRank": "TE12"
+  },
+  {
+    "Name": "Nyheim Hines",
+    "Team": "IND",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 106.4,
+    "Rank": 112,
+    "PositionRank": "RB43"
+  },
+  {
+    "Name": "Mecole Hardman Jr.",
+    "Team": "KC",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 25,
+    "AverageDraftPositionPPR": 108.8,
+    "Rank": 113,
+    "PositionRank": "WR45"
+  },
+  {
+    "Name": "Darnell Mooney",
+    "Team": "CHI",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 25,
+    "AverageDraftPositionPPR": 109.6,
+    "Rank": 114,
+    "PositionRank": "WR46"
+  },
+  {
+    "Name": "Los Angeles Rams",
+    "Team": "LAR",
+    "Position": "DST",
+    "ByeWeek": 11,
+    "Age": null,
+    "AverageDraftPositionPPR": 109.6,
+    "Rank": 114,
+    "PositionRank": "DST2"
+  },
+  {
+    "Name": "Joe Burrow",
+    "Team": "CIN",
+    "Position": "QB",
+    "ByeWeek": 10,
+    "Age": 26,
+    "AverageDraftPositionPPR": 113.4,
+    "Rank": 116,
+    "PositionRank": "QB13"
+  },
+  {
+    "Name": "Tampa Bay Buccaneers",
+    "Team": "TB",
+    "Position": "DST",
+    "ByeWeek": 9,
+    "Age": null,
+    "AverageDraftPositionPPR": 113.7,
+    "Rank": 117,
+    "PositionRank": "DST3"
+  },
+  {
+    "Name": "DJ Chark Jr.",
+    "Team": "JAX",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 26,
+    "AverageDraftPositionPPR": 117.4,
+    "Rank": 118,
+    "PositionRank": "WR47"
+  },
+  {
+    "Name": "Jonnu Smith",
+    "Team": "NE",
+    "Position": "TE",
+    "ByeWeek": 14,
+    "Age": 27,
+    "AverageDraftPositionPPR": 118.4,
+    "Rank": 119,
+    "PositionRank": "TE13"
+  },
+  {
+    "Name": "Rhamondre Stevenson",
+    "Team": "NE",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 25,
+    "AverageDraftPositionPPR": 119.4,
+    "Rank": 120,
+    "PositionRank": "RB44"
+  },
+  {
+    "Name": "Mike Williams",
+    "Team": "LAC",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 28,
+    "AverageDraftPositionPPR": 119.7,
+    "Rank": 121,
+    "PositionRank": "WR48"
+  },
+  {
+    "Name": "J.D. McKissic",
+    "Team": "WAS",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 30,
+    "AverageDraftPositionPPR": 119.7,
+    "Rank": 121,
+    "PositionRank": "RB45"
+  },
+  {
+    "Name": "James White",
+    "Team": "NE",
+    "Position": "RB",
+    "ByeWeek": 14,
+    "Age": 31,
+    "AverageDraftPositionPPR": 121.3,
+    "Rank": 123,
+    "PositionRank": "RB46"
+  },
+  {
+    "Name": "Jarvis Landry",
+    "Team": "CLE",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 30,
+    "AverageDraftPositionPPR": 121.4,
+    "Rank": 124,
+    "PositionRank": "WR49"
+  },
+  {
+    "Name": "Tennessee Titans",
+    "Team": "TEN",
+    "Position": "DST",
+    "ByeWeek": 13,
+    "Age": null,
+    "AverageDraftPositionPPR": 122.3,
+    "Rank": 125,
+    "PositionRank": "DST4"
+  },
+  {
+    "Name": "Trey Lance",
+    "Team": "SF",
+    "Position": "QB",
+    "ByeWeek": 6,
+    "Age": 23,
+    "AverageDraftPositionPPR": 122.8,
+    "Rank": 126,
+    "PositionRank": "QB14"
+  },
+  {
+    "Name": "Giovani Bernard",
+    "Team": "TB",
+    "Position": "RB",
+    "ByeWeek": 9,
+    "Age": 31,
+    "AverageDraftPositionPPR": 122.8,
+    "Rank": 126,
+    "PositionRank": "RB47"
+  },
+  {
+    "Name": "Washington Commanders",
+    "Team": "WAS",
+    "Position": "DST",
+    "ByeWeek": 9,
+    "Age": null,
+    "AverageDraftPositionPPR": 124.1,
+    "Rank": 128,
+    "PositionRank": "DST5"
+  },
+  {
+    "Name": "Elijah Moore",
+    "Team": "NYJ",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 23,
+    "AverageDraftPositionPPR": 124.6,
+    "Rank": 129,
+    "PositionRank": "WR50"
+  },
+  {
+    "Name": "Tevin Coleman",
+    "Team": "NYJ",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 30,
+    "AverageDraftPositionPPR": 126.2,
+    "Rank": 130,
+    "PositionRank": "RB48"
+  },
+  {
+    "Name": "Justin Fields",
+    "Team": "CHI",
+    "Position": "QB",
+    "ByeWeek": 10,
+    "Age": 24,
+    "AverageDraftPositionPPR": 126.8,
+    "Rank": 131,
+    "PositionRank": "QB15"
+  },
+  {
+    "Name": "Marvin Jones Jr.",
+    "Team": "JAX",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 33,
+    "AverageDraftPositionPPR": 128.4,
+    "Rank": 132,
+    "PositionRank": "WR51"
+  },
+  {
+    "Name": "Baltimore Ravens",
+    "Team": "BAL",
+    "Position": "DST",
+    "ByeWeek": 8,
+    "Age": null,
+    "AverageDraftPositionPPR": 130,
+    "Rank": 133,
+    "PositionRank": "DST6"
+  },
+  {
+    "Name": "William Fuller V",
+    "Team": "MIA",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 29,
+    "AverageDraftPositionPPR": 130.1,
+    "Rank": 134,
+    "PositionRank": "WR52"
+  },
+  {
+    "Name": "Rob Gronkowski",
+    "Team": "TB",
+    "Position": "TE",
+    "ByeWeek": 9,
+    "Age": 34,
+    "AverageDraftPositionPPR": 132,
+    "Rank": 135,
+    "PositionRank": "TE14"
+  },
+  {
+    "Name": "Henry Ruggs III",
+    "Team": "LV",
+    "Position": "WR",
+    "ByeWeek": 8,
+    "Age": 24,
+    "AverageDraftPositionPPR": 132.2,
+    "Rank": 136,
+    "PositionRank": "WR53"
+  },
+  {
+    "Name": "Trevor Lawrence",
+    "Team": "JAX",
+    "Position": "QB",
+    "ByeWeek": 7,
+    "Age": 23,
+    "AverageDraftPositionPPR": 133.1,
+    "Rank": 137,
+    "PositionRank": "QB16"
+  },
+  {
+    "Name": "San Francisco 49ers",
+    "Team": "SF",
+    "Position": "DST",
+    "ByeWeek": 6,
+    "Age": null,
+    "AverageDraftPositionPPR": 133.9,
+    "Rank": 138,
+    "PositionRank": "DST7"
+  },
+  {
+    "Name": "Russell Gage",
+    "Team": "ATL",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 27,
+    "AverageDraftPositionPPR": 134.3,
+    "Rank": 139,
+    "PositionRank": "WR54"
+  },
+  {
+    "Name": "Harrison Butker",
+    "Team": "KC",
+    "Position": "K",
+    "ByeWeek": 12,
+    "Age": 28,
+    "AverageDraftPositionPPR": 135.2,
+    "Rank": 140,
+    "PositionRank": "K1"
+  },
+  {
+    "Name": "Justin Tucker",
+    "Team": "BAL",
+    "Position": "K",
+    "ByeWeek": 8,
+    "Age": 33,
+    "AverageDraftPositionPPR": 138.4,
+    "Rank": 141,
+    "PositionRank": "K2"
+  },
+  {
+    "Name": "Indianapolis Colts",
+    "Team": "IND",
+    "Position": "DST",
+    "ByeWeek": 14,
+    "Age": null,
+    "AverageDraftPositionPPR": 139.2,
+    "Rank": 142,
+    "PositionRank": "DST8"
+  },
+  {
+    "Name": "Younghoe Koo",
+    "Team": "ATL",
+    "Position": "K",
+    "ByeWeek": 6,
+    "Age": 29,
+    "AverageDraftPositionPPR": 141.7,
+    "Rank": 143,
+    "PositionRank": "K3"
+  },
+  {
+    "Name": "New England Patriots",
+    "Team": "NE",
+    "Position": "DST",
+    "ByeWeek": 14,
+    "Age": null,
+    "AverageDraftPositionPPR": 142.7,
+    "Rank": 144,
+    "PositionRank": "DST9"
+  },
+  {
+    "Name": "Tony Jones Jr.",
+    "Team": "NO",
+    "Position": "RB",
+    "ByeWeek": 6,
+    "Age": 25,
+    "AverageDraftPositionPPR": 144.5,
+    "Rank": 145,
+    "PositionRank": "RB49"
+  },
+  {
+    "Name": "Denver Broncos",
+    "Team": "DEN",
+    "Position": "DST",
+    "ByeWeek": 11,
+    "Age": null,
+    "AverageDraftPositionPPR": 145.8,
+    "Rank": 146,
+    "PositionRank": "DST10"
+  },
+  {
+    "Name": "Buffalo Bills",
+    "Team": "BUF",
+    "Position": "DST",
+    "ByeWeek": 7,
+    "Age": null,
+    "AverageDraftPositionPPR": 150.8,
+    "Rank": 147,
+    "PositionRank": "DST11"
+  },
+  {
+    "Name": "Gerald Everett",
+    "Team": "SEA",
+    "Position": "TE",
+    "ByeWeek": 9,
+    "Age": 29,
+    "AverageDraftPositionPPR": 150.8,
+    "Rank": 147,
+    "PositionRank": "TE15"
+  },
+  {
+    "Name": "Seattle Seahawks",
+    "Team": "SEA",
+    "Position": "DST",
+    "ByeWeek": 9,
+    "Age": null,
+    "AverageDraftPositionPPR": 151.7,
+    "Rank": 149,
+    "PositionRank": "DST12"
+  },
+  {
+    "Name": "Michael Gallup",
+    "Team": "DAL",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 27,
+    "AverageDraftPositionPPR": 152,
+    "Rank": 150,
+    "PositionRank": "WR55"
+  },
+  {
+    "Name": "Curtis Samuel",
+    "Team": "WAS",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 27,
+    "AverageDraftPositionPPR": 153,
+    "Rank": 151,
+    "PositionRank": "WR56"
+  },
+  {
+    "Name": "DeVante Parker",
+    "Team": "MIA",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 30,
+    "AverageDraftPositionPPR": 154,
+    "Rank": 152,
+    "PositionRank": "WR57"
+  },
+  {
+    "Name": "Marquise Brown",
+    "Team": "BAL",
+    "Position": "WR",
+    "ByeWeek": 8,
+    "Age": 26,
+    "AverageDraftPositionPPR": 155,
+    "Rank": 153,
+    "PositionRank": "WR58"
+  },
+  {
+    "Name": "Tyrell Williams",
+    "Team": "DET",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 31,
+    "AverageDraftPositionPPR": 156,
+    "Rank": 154,
+    "PositionRank": "WR59"
+  },
+  {
+    "Name": "Sterling Shepard",
+    "Team": "NYG",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 30,
+    "AverageDraftPositionPPR": 157,
+    "Rank": 155,
+    "PositionRank": "WR60"
+  },
+  {
+    "Name": "Dallas Cowboys",
+    "Team": "DAL",
+    "Position": "DST",
+    "ByeWeek": 7,
+    "Age": null,
+    "AverageDraftPositionPPR": 157,
+    "Rank": 155,
+    "PositionRank": "DST13"
+  },
+  {
+    "Name": "Rondale Moore",
+    "Team": "ARI",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 23,
+    "AverageDraftPositionPPR": 158,
+    "Rank": 157,
+    "PositionRank": "WR61"
+  },
+  {
+    "Name": "Cole Beasley",
+    "Team": "BUF",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 34,
+    "AverageDraftPositionPPR": 159,
+    "Rank": 158,
+    "PositionRank": "WR62"
+  },
+  {
+    "Name": "Emmanuel Sanders",
+    "Team": "BUF",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 36,
+    "AverageDraftPositionPPR": 160,
+    "Rank": 159,
+    "PositionRank": "WR63"
+  },
+  {
+    "Name": "Nelson Agholor",
+    "Team": "NE",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 30,
+    "AverageDraftPositionPPR": 161,
+    "Rank": 160,
+    "PositionRank": "WR64"
+  },
+  {
+    "Name": "Terrace Marshall Jr.",
+    "Team": "CAR",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 23,
+    "AverageDraftPositionPPR": 162,
+    "Rank": 161,
+    "PositionRank": "WR65"
+  },
+  {
+    "Name": "Jalen Reagor",
+    "Team": "PHI",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 24,
+    "AverageDraftPositionPPR": 163,
+    "Rank": 162,
+    "PositionRank": "WR66"
+  },
+  {
+    "Name": "Tre'Quan Smith",
+    "Team": "NO",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 27,
+    "AverageDraftPositionPPR": 164,
+    "Rank": 163,
+    "PositionRank": "WR67"
+  },
+  {
+    "Name": "Bryan Edwards",
+    "Team": "LV",
+    "Position": "WR",
+    "ByeWeek": 8,
+    "Age": 24,
+    "AverageDraftPositionPPR": 165,
+    "Rank": 164,
+    "PositionRank": "WR68"
+  },
+  {
+    "Name": "Cleveland Browns",
+    "Team": "CLE",
+    "Position": "DST",
+    "ByeWeek": 13,
+    "Age": null,
+    "AverageDraftPositionPPR": 165.6,
+    "Rank": 165,
+    "PositionRank": "DST14"
+  },
+  {
+    "Name": "Gabe Davis",
+    "Team": "BUF",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 24,
+    "AverageDraftPositionPPR": 166,
+    "Rank": 166,
+    "PositionRank": "WR69"
+  },
+  {
+    "Name": "Miami Dolphins",
+    "Team": "MIA",
+    "Position": "DST",
+    "ByeWeek": 14,
+    "Age": null,
+    "AverageDraftPositionPPR": 166.2,
+    "Rank": 167,
+    "PositionRank": "DST15"
+  },
+  {
+    "Name": "A.J. Green",
+    "Team": "ARI",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 35,
+    "AverageDraftPositionPPR": 167,
+    "Rank": 168,
+    "PositionRank": "WR70"
+  },
+  {
+    "Name": "Randall Cobb",
+    "Team": "GB",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 32,
+    "AverageDraftPositionPPR": 168,
+    "Rank": 169,
+    "PositionRank": "WR71"
+  },
+  {
+    "Name": "Carolina Panthers",
+    "Team": "CAR",
+    "Position": "DST",
+    "ByeWeek": 13,
+    "Age": null,
+    "AverageDraftPositionPPR": 168.7,
+    "Rank": 170,
+    "PositionRank": "DST16"
+  },
+  {
+    "Name": "Parris Campbell",
+    "Team": "IND",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 26,
+    "AverageDraftPositionPPR": 169,
+    "Rank": 171,
+    "PositionRank": "WR72"
+  },
+  {
+    "Name": "Jamison Crowder",
+    "Team": "NYJ",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 30,
+    "AverageDraftPositionPPR": 170,
+    "Rank": 172,
+    "PositionRank": "WR73"
+  },
+  {
+    "Name": "Green Bay Packers",
+    "Team": "GB",
+    "Position": "DST",
+    "ByeWeek": 13,
+    "Age": null,
+    "AverageDraftPositionPPR": 170.2,
+    "Rank": 173,
+    "PositionRank": "DST17"
+  },
+  {
+    "Name": "Atlanta Falcons",
+    "Team": "ATL",
+    "Position": "DST",
+    "ByeWeek": 6,
+    "Age": null,
+    "AverageDraftPositionPPR": 170.7,
+    "Rank": 174,
+    "PositionRank": "DST18"
+  },
+  {
+    "Name": "Nico Collins",
+    "Team": "HOU",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 24,
+    "AverageDraftPositionPPR": 171,
+    "Rank": 175,
+    "PositionRank": "WR74"
+  },
+  {
+    "Name": "Amon-Ra St. Brown",
+    "Team": "DET",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 23,
+    "AverageDraftPositionPPR": 172,
+    "Rank": 176,
+    "PositionRank": "WR75"
+  },
+  {
+    "Name": "Chicago Bears",
+    "Team": "CHI",
+    "Position": "DST",
+    "ByeWeek": 10,
+    "Age": null,
+    "AverageDraftPositionPPR": 173,
+    "Rank": 177,
+    "PositionRank": "DST19"
+  },
+  {
+    "Name": "Van Jefferson",
+    "Team": "LAR",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 27,
+    "AverageDraftPositionPPR": 173,
+    "Rank": 177,
+    "PositionRank": "WR76"
+  },
+  {
+    "Name": "Kansas City Chiefs",
+    "Team": "KC",
+    "Position": "DST",
+    "ByeWeek": 12,
+    "Age": null,
+    "AverageDraftPositionPPR": 173.2,
+    "Rank": 179,
+    "PositionRank": "DST20"
+  },
+  {
+    "Name": "Darius Slayton",
+    "Team": "NYG",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 26,
+    "AverageDraftPositionPPR": 174,
+    "Rank": 180,
+    "PositionRank": "WR77"
+  },
+  {
+    "Name": "Jacksonville Jaguars",
+    "Team": "JAX",
+    "Position": "DST",
+    "ByeWeek": 7,
+    "Age": null,
+    "AverageDraftPositionPPR": 174.4,
+    "Rank": 181,
+    "PositionRank": "DST21"
+  },
+  {
+    "Name": "Hunter Renfrow",
+    "Team": "LV",
+    "Position": "WR",
+    "ByeWeek": 8,
+    "Age": 27,
+    "AverageDraftPositionPPR": 175,
+    "Rank": 182,
+    "PositionRank": "WR78"
+  },
+  {
+    "Name": "Sammy Watkins",
+    "Team": "BAL",
+    "Position": "WR",
+    "ByeWeek": 8,
+    "Age": 30,
+    "AverageDraftPositionPPR": 176,
+    "Rank": 183,
+    "PositionRank": "WR79"
+  },
+  {
+    "Name": "Philadelphia Eagles",
+    "Team": "PHI",
+    "Position": "DST",
+    "ByeWeek": 14,
+    "Age": null,
+    "AverageDraftPositionPPR": 177,
+    "Rank": 184,
+    "PositionRank": "DST22"
+  },
+  {
+    "Name": "Christian Kirk",
+    "Team": "ARI",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 26,
+    "AverageDraftPositionPPR": 177,
+    "Rank": 184,
+    "PositionRank": "WR80"
+  },
+  {
+    "Name": "New York Jets",
+    "Team": "NYJ",
+    "Position": "DST",
+    "ByeWeek": 6,
+    "Age": null,
+    "AverageDraftPositionPPR": 178,
+    "Rank": 186,
+    "PositionRank": "DST23"
+  },
+  {
+    "Name": "Marquez Valdes-Scantling",
+    "Team": "GB",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 28,
+    "AverageDraftPositionPPR": 178,
+    "Rank": 186,
+    "PositionRank": "WR81"
+  },
+  {
+    "Name": "Quintez Cephus",
+    "Team": "DET",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 25,
+    "AverageDraftPositionPPR": 179,
+    "Rank": 188,
+    "PositionRank": "WR82"
+  },
+  {
+    "Name": "Tony Pollard",
+    "Team": "DAL",
+    "Position": "RB",
+    "ByeWeek": 7,
+    "Age": 26,
+    "AverageDraftPositionPPR": 180,
+    "Rank": 189,
+    "PositionRank": "RB50"
+  },
+  {
+    "Name": "Detroit Lions",
+    "Team": "DET",
+    "Position": "DST",
+    "ByeWeek": 9,
+    "Age": null,
+    "AverageDraftPositionPPR": 180,
+    "Rank": 189,
+    "PositionRank": "DST24"
+  },
+  {
+    "Name": "David Johnson",
+    "Team": "HOU",
+    "Position": "RB",
+    "ByeWeek": 10,
+    "Age": 31,
+    "AverageDraftPositionPPR": 181,
+    "Rank": 191,
+    "PositionRank": "RB51"
+  },
+  {
+    "Name": "Houston Texans",
+    "Team": "HOU",
+    "Position": "DST",
+    "ByeWeek": 10,
+    "Age": null,
+    "AverageDraftPositionPPR": 181,
+    "Rank": 191,
+    "PositionRank": "DST25"
+  },
+  {
+    "Name": "Cincinnati Bengals",
+    "Team": "CIN",
+    "Position": "DST",
+    "ByeWeek": 10,
+    "Age": null,
+    "AverageDraftPositionPPR": 182,
+    "Rank": 193,
+    "PositionRank": "DST26"
+  },
+  {
+    "Name": "Zach Pascal",
+    "Team": "IND",
+    "Position": "WR",
+    "ByeWeek": 14,
+    "Age": 28,
+    "AverageDraftPositionPPR": 182,
+    "Rank": 193,
+    "PositionRank": "WR83"
+  },
+  {
+    "Name": "Las Vegas Raiders",
+    "Team": "LV",
+    "Position": "DST",
+    "ByeWeek": 8,
+    "Age": null,
+    "AverageDraftPositionPPR": 183,
+    "Rank": 195,
+    "PositionRank": "DST27"
+  },
+  {
+    "Name": "Demarcus Robinson",
+    "Team": "KC",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 28,
+    "AverageDraftPositionPPR": 183,
+    "Rank": 195,
+    "PositionRank": "WR84"
+  },
+  {
+    "Name": "Joshua Palmer",
+    "Team": "LAC",
+    "Position": "WR",
+    "ByeWeek": 7,
+    "Age": 23,
+    "AverageDraftPositionPPR": 184,
+    "Rank": 197,
+    "PositionRank": "WR85"
+  },
+  {
+    "Name": "Keelan Cole Sr.",
+    "Team": "NYJ",
+    "Position": "WR",
+    "ByeWeek": 6,
+    "Age": 30,
+    "AverageDraftPositionPPR": 185,
+    "Rank": 198,
+    "PositionRank": "WR86"
+  },
+  {
+    "Name": "KJ Hamler",
+    "Team": "DEN",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 24,
+    "AverageDraftPositionPPR": 186,
+    "Rank": 199,
+    "PositionRank": "WR87"
+  },
+  {
+    "Name": "Byron Pringle",
+    "Team": "KC",
+    "Position": "WR",
+    "ByeWeek": 12,
+    "Age": 29,
+    "AverageDraftPositionPPR": 187,
+    "Rank": 200,
+    "PositionRank": "WR88"
+  },
+  {
+    "Name": "Donovan Peoples-Jones",
+    "Team": "CLE",
+    "Position": "WR",
+    "ByeWeek": 13,
+    "Age": 24,
+    "AverageDraftPositionPPR": 188,
+    "Rank": 201,
+    "PositionRank": "WR89"
+  },
+  {
+    "Name": "Dee Eskridge",
+    "Team": "SEA",
+    "Position": "WR",
+    "ByeWeek": 9,
+    "Age": 26,
+    "AverageDraftPositionPPR": 189,
+    "Rank": 202,
+    "PositionRank": "WR90"
+  },
+  {
+    "Name": "New Orleans Saints",
+    "Team": "NO",
+    "Position": "DST",
+    "ByeWeek": 6,
+    "Age": null,
+    "AverageDraftPositionPPR": 189.7,
+    "Rank": 203,
+    "PositionRank": "DST28"
+  },
+  {
+    "Name": "DeSean Jackson",
+    "Team": "LAR",
+    "Position": "WR",
+    "ByeWeek": 11,
+    "Age": 36,
+    "AverageDraftPositionPPR": 190,
+    "Rank": 204,
+    "PositionRank": "WR91"
+  },
+  {
+    "Name": "New York Giants",
+    "Team": "NYG",
+    "Position": "DST",
+    "ByeWeek": 10,
+    "Age": null,
+    "AverageDraftPositionPPR": 190.6,
+    "Rank": 205,
+    "PositionRank": "DST29"
+  },
+  {
+    "Name": "Chris Conley",
+    "Team": "HOU",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 30,
+    "AverageDraftPositionPPR": 191,
+    "Rank": 206,
+    "PositionRank": "WR92"
+  },
+  {
+    "Name": "Arizona Cardinals",
+    "Team": "ARI",
+    "Position": "DST",
+    "ByeWeek": 12,
+    "Age": null,
+    "AverageDraftPositionPPR": 191.6,
+    "Rank": 207,
+    "PositionRank": "DST30"
+  },
+  {
+    "Name": "Anthony Miller",
+    "Team": "HOU",
+    "Position": "WR",
+    "ByeWeek": 10,
+    "Age": 28,
+    "AverageDraftPositionPPR": 192,
+    "Rank": 208,
+    "PositionRank": "WR93"
+  }
+]
